@@ -213,4 +213,49 @@ transform:scale(1.1);
 
 .call-float:hover{
 transform:scale(1.1);
+}#stats{
+background:#002B5B;
+color:white;
+}
+
+#stats .title{
+color:#FFD700;
+}
+
+#stats .card{
+background:#0c417c;
+color:white;
+text-align:center;
+}
+
+#stats h1{
+font-size:42px;
+color:#FFD700;
+}
+
+#reviews{
+background:#f8f8f8;
+}
+#stats{
+background:#002B5B;
+color:white;
+}
+
+#stats .title{
+color:#FFD700;
+}
+
+#stats .card{
+background:#0c417c;
+color:white;
+text-align:center;
+}
+
+#stats h1{
+font-size:42px;
+color:#FFD700;
+}
+
+#reviews{
+background:#f8f8f8;
 }
